@@ -1,0 +1,20 @@
+.pageOrganizer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.rightSide{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftSide{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
